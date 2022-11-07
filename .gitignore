@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+baskets.csv
+events.csv
+orders.csv
+products.csv
+users.csv
+test_DB.ipynb
